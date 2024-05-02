@@ -1,0 +1,72 @@
+{
+    "label": "Private Pilot - Airplane",
+    "I": {
+        "label": "Preflight Preparation",
+        "level": "Areas of Operation",
+        "A": {
+            "label": "Pilot Qualifications",
+            "level": "Task",
+            "references": [
+                "14 CFR 61",
+                "14 CFR 68",
+                "14 CFR 91",
+                "FAA-H-8083-2",
+                "FAA-H-8083-25",
+                "AC 68-1"
+            ],
+            "objective": "To determine that the applicant exhibits satisfactory knowledge, risk management, and skills associated with airman and medical certificates including privileges, limitations, currency, and operating as pilot-in-command (PIC) as a private pilot.",
+            "K1": {
+                "level": "Knowledge",
+                "label": "The applicant demonstrates understanding of certification requirements, recent flight experience, and recordkeeping."
+            },
+            "K2": {
+                "level": "Knowledge",
+                "label": "The applicant demonstrates understanding of privileges and limitations."
+            },
+            "K3": {
+                "level": "Knowledge",
+                "label": "The applicant demonstrates understanding of medical certificates: class, expiration, privileges, temporary disqualifications."
+            },
+            "K4": {
+                "level": "Knowledge",
+                "label": "The applicant demonstrates understanding of documents required to exercise private pilot privileges."
+            },
+            "K5": {
+                "level": "Knowledge",
+                "label": "The applicant demonstrates understanding of part 68 BasicMed privileges and limitations."
+            },
+            "R1": {
+                "level": "Risk Management",
+                "label": "The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing failure to distinguish proficiency versus currency."
+            },
+            "R2": {
+                "level": "Risk Management",
+                "label": "The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing flying unfamiliar airplanes, or operating with unfamiliar flight display systems, and avionics."
+            },
+            "S1": {
+                "level": "Safety",
+                "label": "The applicant demonstrates the ability to apply requirements to act as PIC under Visual Flight Rules (VFR) in a scenario given by the evaluator."
+            }
+        },
+        "B": {
+            "label": "Airworthiness Requirements",
+            "level": "Task",
+            "references": [
+                "14 CFR 39",
+                "14 CFR 43",
+                "14 CFR 91",
+                "FAA-H-8083-2",
+                "FAA-H-8083-25"
+            ],
+            "objective": "To determine that the applicant exhibits satisfactory knowledge, risk management, and skills associated with airworthiness requirements, including airplane certificates.",
+            "K1a": {
+                "level": "Knowledge",
+                "label": "The applicant demonstrates understanding of general airworthiness requirements and compliance for airplanes, including certificate location and expiration dates."
+            },
+            "K1b": {
+                "level": "Knowledge",
+                "label": "The applicant demonstrates understanding of general airworthiness requirements and compliance for airplanes, including required inspections and airplane logbook documentation."
+            }
+        }
+    }
+}
